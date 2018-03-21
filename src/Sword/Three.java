@@ -1,3 +1,5 @@
+package Sword;
+
 public class Three {
     public boolean Find(int target, int [][] array) {
         if(array==null)

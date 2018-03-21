@@ -1,3 +1,5 @@
+package Sword;
+
 public class Four {
 
     public String replaceSpace(StringBuffer str) {
